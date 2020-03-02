@@ -1,0 +1,1875 @@
+[
+    {
+        "itemid": 1,
+        "itemstatus": 1,
+        "name": "Cercatetus concinnus",
+        "category": "Category5",
+        "stuffing": "Stuffing3",
+        "type": "Veg",
+        "cost": 31.22,
+        "typeid": 3,
+        "categoryid": 6,
+        "stuffingid": 9,
+        "description": "Laceration of peroneal artery, unspecified leg, init encntr",
+        "days": [
+            6
+        ]
+    },
+    {
+        "itemid": 2,
+        "itemstatus": 1,
+        "name": "Haematopus ater",
+        "category": "Category9",
+        "stuffing": "Stuffing9",
+        "type": "Veg",
+        "cost": 95.34,
+        "typeid": 2,
+        "categoryid": 2,
+        "stuffingid": 2,
+        "description": "Monoplg low lmb fol oth ntrm intcrn hemor aff right dom side",
+        "days": [
+            2,
+            5,
+            7,
+            6,
+            3,
+            1,
+            4
+        ]
+    },
+    {
+        "itemid": 3,
+        "itemstatus": 2,
+        "name": "Cyrtodactylus louisiadensis",
+        "category": "Category1",
+        "stuffing": "Stuffing7",
+        "type": "Drink",
+        "cost": 56.09,
+        "typeid": 2,
+        "categoryid": 6,
+        "stuffingid": 8,
+        "description": "Drug-induced gout, wrist",
+        "days": [
+            5
+        ]
+    },
+    {
+        "itemid": 4,
+        "itemstatus": 1,
+        "name": "Tayassu tajacu",
+        "category": "Category10",
+        "stuffing": "Stuffing1",
+        "type": "Veg",
+        "cost": 51.49,
+        "typeid": 3,
+        "categoryid": 6,
+        "stuffingid": 5,
+        "description": "Nondisp fx of lateral condyle of l femr, 7thF",
+        "days": [
+            5,
+            1,
+            6
+        ]
+    },
+    {
+        "itemid": 5,
+        "itemstatus": 1,
+        "name": "Spermophilus lateralis",
+        "category": "Category3",
+        "stuffing": "Stuffing9",
+        "type": "Drink",
+        "cost": 29.09,
+        "typeid": 3,
+        "categoryid": 9,
+        "stuffingid": 10,
+        "description": "Disp fx of cuboid bone of unsp foot, init for opn fx",
+        "days": [
+            3
+        ]
+    },
+    {
+        "itemid": 6,
+        "itemstatus": 1,
+        "name": "Elephas maximus bengalensis",
+        "category": "Category3",
+        "stuffing": "Stuffing2",
+        "type": "Nonveg",
+        "cost": 95.25,
+        "typeid": 2,
+        "categoryid": 8,
+        "stuffingid": 6,
+        "description": "Nondisp oblique fx shaft of l rad, 7thJ",
+        "days": [
+            2,
+            5,
+            4,
+            1,
+            3,
+            6
+        ]
+    },
+    {
+        "itemid": 7,
+        "itemstatus": 1,
+        "name": "Canis lupus baileyi",
+        "category": "Category10",
+        "stuffing": "Stuffing8",
+        "type": "Drink",
+        "cost": 23.95,
+        "typeid": 2,
+        "categoryid": 5,
+        "stuffingid": 4,
+        "description": "Insect bite (nonvenomous) of right front wall of thorax",
+        "days": [
+            4,
+            2,
+            3,
+            7,
+            5
+        ]
+    },
+    {
+        "itemid": 8,
+        "itemstatus": 1,
+        "name": "Uraeginthus granatina",
+        "category": "Category8",
+        "stuffing": "Stuffing7",
+        "type": "Drink",
+        "cost": 97.3,
+        "typeid": 3,
+        "categoryid": 8,
+        "stuffingid": 2,
+        "description": "Solitary bone cyst, unspecified tibia and fibula",
+        "days": [
+            5,
+            2,
+            7,
+            1
+        ]
+    },
+    {
+        "itemid": 9,
+        "itemstatus": 1,
+        "name": "Tachyglossus aculeatus",
+        "category": "Category5",
+        "stuffing": "Stuffing7",
+        "type": "Veg",
+        "cost": 16.26,
+        "typeid": 1,
+        "categoryid": 1,
+        "stuffingid": 4,
+        "description": "Prsnl hx of malig neoplm of lip, oral cavity, and pharynx",
+        "days": [
+            4,
+            5,
+            2,
+            6,
+            3,
+            7,
+            1
+        ]
+    },
+    {
+        "itemid": 10,
+        "itemstatus": 2,
+        "name": "Tachybaptus ruficollis",
+        "category": "Category10",
+        "stuffing": "Stuffing10",
+        "type": "Drink",
+        "cost": 65.51,
+        "typeid": 3,
+        "categoryid": 4,
+        "stuffingid": 10,
+        "description": "Acute gastric ulcer without hemorrhage or perforation",
+        "days": [
+            2,
+            6,
+            5,
+            4,
+            7,
+            3
+        ]
+    },
+    {
+        "itemid": 11,
+        "itemstatus": 2,
+        "name": "Dasyurus viverrinus",
+        "category": "Category5",
+        "stuffing": "Stuffing10",
+        "type": "Nonveg",
+        "cost": 41.36,
+        "typeid": 2,
+        "categoryid": 4,
+        "stuffingid": 8,
+        "description": "Neurotrophic keratoconjunctivitis, unspecified eye",
+        "days": [
+            2,
+            7,
+            4,
+            5,
+            3,
+            6
+        ]
+    },
+    {
+        "itemid": 12,
+        "itemstatus": 1,
+        "name": "Lamprotornis chalybaeus",
+        "category": "Category8",
+        "stuffing": "Stuffing7",
+        "type": "Nonveg",
+        "cost": 92.36,
+        "typeid": 3,
+        "categoryid": 4,
+        "stuffingid": 3,
+        "description": "Disp fx of anterior column of unsp acetabulum, init",
+        "days": [
+            3,
+            1,
+            7
+        ]
+    },
+    {
+        "itemid": 13,
+        "itemstatus": 2,
+        "name": "Gyps bengalensis",
+        "category": "Category10",
+        "stuffing": "Stuffing4",
+        "type": "Veg",
+        "cost": 11.87,
+        "typeid": 2,
+        "categoryid": 7,
+        "stuffingid": 10,
+        "description": "Complete traumatic metacarpophalangeal amputation of thmb",
+        "days": [
+            3
+        ]
+    },
+    {
+        "itemid": 14,
+        "itemstatus": 1,
+        "name": "Cebus apella",
+        "category": "Category1",
+        "stuffing": "Stuffing2",
+        "type": "Veg",
+        "cost": 66.62,
+        "typeid": 3,
+        "categoryid": 3,
+        "stuffingid": 9,
+        "description": "Acute myeloid leukemia with 11q23-abnormality in remission",
+        "days": [
+            1,
+            6
+        ]
+    },
+    {
+        "itemid": 15,
+        "itemstatus": 1,
+        "name": "Spermophilus parryii",
+        "category": "Category4",
+        "stuffing": "Stuffing3",
+        "type": "Nonveg",
+        "cost": 18.76,
+        "typeid": 1,
+        "categoryid": 9,
+        "stuffingid": 10,
+        "description": "Toxic effects of lead and its compounds",
+        "days": [
+            1,
+            7
+        ]
+    },
+    {
+        "itemid": 16,
+        "itemstatus": 1,
+        "name": "Psophia viridis",
+        "category": "Category2",
+        "stuffing": "Stuffing10",
+        "type": "Nonveg",
+        "cost": 90.06,
+        "typeid": 1,
+        "categoryid": 4,
+        "stuffingid": 1,
+        "description": "Anomalous origin of subclavian artery",
+        "days": [
+            4,
+            1,
+            3,
+            2
+        ]
+    },
+    {
+        "itemid": 17,
+        "itemstatus": 1,
+        "name": "Cabassous sp.",
+        "category": "Category1",
+        "stuffing": "Stuffing7",
+        "type": "Nonveg",
+        "cost": 72.98,
+        "typeid": 3,
+        "categoryid": 1,
+        "stuffingid": 2,
+        "description": "Nondisp fx of lateral condyle of r tibia, 7thG",
+        "days": [
+            6
+        ]
+    },
+    {
+        "itemid": 18,
+        "itemstatus": 1,
+        "name": "Ammospermophilus nelsoni",
+        "category": "Category1",
+        "stuffing": "Stuffing7",
+        "type": "Nonveg",
+        "cost": 99.37,
+        "typeid": 3,
+        "categoryid": 9,
+        "stuffingid": 5,
+        "description": "Heat exposure on board passenger ship, initial encounter",
+        "days": [
+            1,
+            3,
+            6,
+            2,
+            7
+        ]
+    },
+    {
+        "itemid": 19,
+        "itemstatus": 1,
+        "name": "Aonyx cinerea",
+        "category": "Category5",
+        "stuffing": "Stuffing8",
+        "type": "Veg",
+        "cost": 56.78,
+        "typeid": 3,
+        "categoryid": 10,
+        "stuffingid": 2,
+        "description": "Unsp ultralt/microlt/pwr-glider acc injuring occupant, init",
+        "days": [
+            2,
+            6,
+            4,
+            5,
+            1
+        ]
+    },
+    {
+        "itemid": 20,
+        "itemstatus": 2,
+        "name": "Bettongia penicillata",
+        "category": "Category3",
+        "stuffing": "Stuffing8",
+        "type": "Nonveg",
+        "cost": 26.35,
+        "typeid": 3,
+        "categoryid": 3,
+        "stuffingid": 10,
+        "description": "Corrosions of other specified parts of left eye and adnexa",
+        "days": [
+            7
+        ]
+    },
+    {
+        "itemid": 21,
+        "itemstatus": 2,
+        "name": "Hyaena brunnea",
+        "category": "Category4",
+        "stuffing": "Stuffing3",
+        "type": "Veg",
+        "cost": 33.51,
+        "typeid": 2,
+        "categoryid": 8,
+        "stuffingid": 4,
+        "description": "Major laceration of femoral artery",
+        "days": [
+            7,
+            6,
+            4,
+            2,
+            3,
+            1
+        ]
+    },
+    {
+        "itemid": 22,
+        "itemstatus": 2,
+        "name": "Pteronura brasiliensis",
+        "category": "Category5",
+        "stuffing": "Stuffing7",
+        "type": "Nonveg",
+        "cost": 71.49,
+        "typeid": 2,
+        "categoryid": 2,
+        "stuffingid": 7,
+        "description": "Displaced longitud fx left patella, init for opn fx type I/2",
+        "days": [
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "itemid": 23,
+        "itemstatus": 1,
+        "name": "Zalophus californicus",
+        "category": "Category1",
+        "stuffing": "Stuffing3",
+        "type": "Nonveg",
+        "cost": 44.51,
+        "typeid": 2,
+        "categoryid": 10,
+        "stuffingid": 8,
+        "description": "Salter-Harris Type I physeal fracture of right metatarsal",
+        "days": [
+            7,
+            6,
+            4
+        ]
+    },
+    {
+        "itemid": 24,
+        "itemstatus": 2,
+        "name": "Pteropus rufus",
+        "category": "Category3",
+        "stuffing": "Stuffing9",
+        "type": "Drink",
+        "cost": 21.79,
+        "typeid": 1,
+        "categoryid": 4,
+        "stuffingid": 9,
+        "description": "Bi inguinal hernia, w obst, w/o gangrene, not spcf as recur",
+        "days": [
+            6,
+            3,
+            5
+        ]
+    },
+    {
+        "itemid": 25,
+        "itemstatus": 1,
+        "name": "Bubalus arnee",
+        "category": "Category8",
+        "stuffing": "Stuffing9",
+        "type": "Nonveg",
+        "cost": 12.57,
+        "typeid": 2,
+        "categoryid": 5,
+        "stuffingid": 8,
+        "description": "Chronic venous hypertension w ulcer of unsp low extrm",
+        "days": [
+            4
+        ]
+    },
+    {
+        "itemid": 26,
+        "itemstatus": 1,
+        "name": "Cercatetus concinnus",
+        "category": "Category2",
+        "stuffing": "Stuffing8",
+        "type": "Nonveg",
+        "cost": 59.19,
+        "typeid": 1,
+        "categoryid": 9,
+        "stuffingid": 10,
+        "description": "Nondisp fx of lateral condyle of l tibia, 7thD",
+        "days": [
+            6,
+            1,
+            2,
+            7,
+            3,
+            5
+        ]
+    },
+    {
+        "itemid": 27,
+        "itemstatus": 2,
+        "name": "Choloepus hoffmani",
+        "category": "Category4",
+        "stuffing": "Stuffing8",
+        "type": "Drink",
+        "cost": 40.31,
+        "typeid": 2,
+        "categoryid": 4,
+        "stuffingid": 9,
+        "description": "Anorexia nervosa, unspecified",
+        "days": [
+            5
+        ]
+    },
+    {
+        "itemid": 28,
+        "itemstatus": 1,
+        "name": "Procyon cancrivorus",
+        "category": "Category1",
+        "stuffing": "Stuffing5",
+        "type": "Drink",
+        "cost": 71.12,
+        "typeid": 3,
+        "categoryid": 8,
+        "stuffingid": 10,
+        "description": "Unsp car occupant injured in clsn w oth and unsp mv in traf",
+        "days": [
+            2,
+            6,
+            3,
+            1,
+            4,
+            7
+        ]
+    },
+    {
+        "itemid": 29,
+        "itemstatus": 2,
+        "name": "Corvus brachyrhynchos",
+        "category": "Category9",
+        "stuffing": "Stuffing3",
+        "type": "Drink",
+        "cost": 79.54,
+        "typeid": 1,
+        "categoryid": 2,
+        "stuffingid": 3,
+        "description": "Injury of right uterine artery, initial encounter",
+        "days": [
+            6,
+            4,
+            5,
+            1,
+            2,
+            7
+        ]
+    },
+    {
+        "itemid": 30,
+        "itemstatus": 2,
+        "name": "Speothos vanaticus",
+        "category": "Categor6",
+        "stuffing": "Stuffing1",
+        "type": "Veg",
+        "cost": 27.54,
+        "typeid": 2,
+        "categoryid": 7,
+        "stuffingid": 10,
+        "description": "Acute gingivitis",
+        "days": [
+            5
+        ]
+    },
+    {
+        "itemid": 31,
+        "itemstatus": 2,
+        "name": "Anhinga rufa",
+        "category": "Category2",
+        "stuffing": "Stuffing9",
+        "type": "Nonveg",
+        "cost": 79.3,
+        "typeid": 1,
+        "categoryid": 7,
+        "stuffingid": 1,
+        "description": "Toxic effect of rattlesnake venom, self-harm, subs",
+        "days": [
+            3,
+            2,
+            1,
+            5
+        ]
+    },
+    {
+        "itemid": 32,
+        "itemstatus": 1,
+        "name": "Oxybelis sp.",
+        "category": "Category5",
+        "stuffing": "Stuffing7",
+        "type": "Drink",
+        "cost": 13.71,
+        "typeid": 2,
+        "categoryid": 4,
+        "stuffingid": 5,
+        "description": "Corrosion of first degree of right shoulder, init encntr",
+        "days": [
+            2,
+            7,
+            3
+        ]
+    },
+    {
+        "itemid": 33,
+        "itemstatus": 1,
+        "name": "Buteo jamaicensis",
+        "category": "Category3",
+        "stuffing": "Stuffing3",
+        "type": "Drink",
+        "cost": 90.48,
+        "typeid": 3,
+        "categoryid": 1,
+        "stuffingid": 9,
+        "description": "Puncture wound with foreign body, unsp ankle, init encntr",
+        "days": [
+            5
+        ]
+    },
+    {
+        "itemid": 34,
+        "itemstatus": 2,
+        "name": "Eudyptula minor",
+        "category": "Category2",
+        "stuffing": "Stuffing7",
+        "type": "Veg",
+        "cost": 79.96,
+        "typeid": 1,
+        "categoryid": 6,
+        "stuffingid": 4,
+        "description": "Stress fracture, unsp ulna and radius, init for fx",
+        "days": [
+            1,
+            5
+        ]
+    },
+    {
+        "itemid": 35,
+        "itemstatus": 1,
+        "name": "Laniarius ferrugineus",
+        "category": "Category2",
+        "stuffing": "Stuffing7",
+        "type": "Drink",
+        "cost": 97.87,
+        "typeid": 2,
+        "categoryid": 10,
+        "stuffingid": 7,
+        "description": "Unsp injury of great saphenous at hip and thi lev, unsp leg",
+        "days": [
+            6,
+            4,
+            5,
+            1,
+            7,
+            3,
+            2
+        ]
+    },
+    {
+        "itemid": 36,
+        "itemstatus": 1,
+        "name": "Larus sp.",
+        "category": "Category5",
+        "stuffing": "Stuffing6",
+        "type": "Drink",
+        "cost": 90.91,
+        "typeid": 2,
+        "categoryid": 5,
+        "stuffingid": 7,
+        "description": "Burn of third degree of right shoulder",
+        "days": [
+            6,
+            3
+        ]
+    },
+    {
+        "itemid": 37,
+        "itemstatus": 2,
+        "name": "Procyon cancrivorus",
+        "category": "Categor6",
+        "stuffing": "Stuffing5",
+        "type": "Drink",
+        "cost": 29.12,
+        "typeid": 2,
+        "categoryid": 3,
+        "stuffingid": 7,
+        "description": "Fx unsp tarsal bone(s) of unsp foot, subs for fx w nonunion",
+        "days": [
+            6,
+            5
+        ]
+    },
+    {
+        "itemid": 38,
+        "itemstatus": 2,
+        "name": "Ateles paniscus",
+        "category": "Category10",
+        "stuffing": "Stuffing8",
+        "type": "Veg",
+        "cost": 40.19,
+        "typeid": 1,
+        "categoryid": 1,
+        "stuffingid": 8,
+        "description": "Exhaustion due to exposure, initial encounter",
+        "days": [
+            1,
+            2,
+            7,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "itemid": 39,
+        "itemstatus": 1,
+        "name": "Genetta genetta",
+        "category": "Categor6",
+        "stuffing": "Stuffing1",
+        "type": "Drink",
+        "cost": 64.13,
+        "typeid": 1,
+        "categoryid": 3,
+        "stuffingid": 2,
+        "description": "Stable burst fx T9-T10 vertebra, subs for fx w delay heal",
+        "days": [
+            7,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "itemid": 40,
+        "itemstatus": 2,
+        "name": "Nasua nasua",
+        "category": "Category2",
+        "stuffing": "Stuffing6",
+        "type": "Drink",
+        "cost": 33.9,
+        "typeid": 1,
+        "categoryid": 2,
+        "stuffingid": 1,
+        "description": "Malignant neoplasm of lateral wall of nasopharynx",
+        "days": [
+            1,
+            6,
+            5
+        ]
+    },
+    {
+        "itemid": 41,
+        "itemstatus": 2,
+        "name": "Trichoglossus haematodus moluccanus",
+        "category": "Category2",
+        "stuffing": "Stuffing1",
+        "type": "Nonveg",
+        "cost": 72.41,
+        "typeid": 1,
+        "categoryid": 2,
+        "stuffingid": 5,
+        "description": "Other early complications of trauma",
+        "days": [
+            5
+        ]
+    },
+    {
+        "itemid": 42,
+        "itemstatus": 1,
+        "name": "Gopherus agassizii",
+        "category": "Categor6",
+        "stuffing": "Stuffing1",
+        "type": "Drink",
+        "cost": 99.56,
+        "typeid": 2,
+        "categoryid": 5,
+        "stuffingid": 1,
+        "description": "Displaced fracture of base of unspecified metacarpal bone",
+        "days": [
+            7,
+            3
+        ]
+    },
+    {
+        "itemid": 43,
+        "itemstatus": 2,
+        "name": "Vulpes cinereoargenteus",
+        "category": "Category10",
+        "stuffing": "Stuffing3",
+        "type": "Nonveg",
+        "cost": 40.71,
+        "typeid": 2,
+        "categoryid": 5,
+        "stuffingid": 3,
+        "description": "Other specified transport accidents",
+        "days": [
+            1,
+            7,
+            4,
+            6,
+            5
+        ]
+    },
+    {
+        "itemid": 44,
+        "itemstatus": 2,
+        "name": "Tapirus terrestris",
+        "category": "Categor6",
+        "stuffing": "Stuffing8",
+        "type": "Nonveg",
+        "cost": 26.23,
+        "typeid": 2,
+        "categoryid": 8,
+        "stuffingid": 10,
+        "description": "Capslr glaucoma w/pseudxf lens, right eye, moderate stage",
+        "days": [
+            4,
+            1,
+            7
+        ]
+    },
+    {
+        "itemid": 45,
+        "itemstatus": 1,
+        "name": "Tursiops truncatus",
+        "category": "Category4",
+        "stuffing": "Stuffing1",
+        "type": "Nonveg",
+        "cost": 78.03,
+        "typeid": 3,
+        "categoryid": 3,
+        "stuffingid": 9,
+        "description": "Unspecified injury of right renal vein, sequela",
+        "days": [
+            3,
+            1,
+            7,
+            2,
+            6,
+            5
+        ]
+    },
+    {
+        "itemid": 46,
+        "itemstatus": 2,
+        "name": "Laniaurius atrococcineus",
+        "category": "Category1",
+        "stuffing": "Stuffing2",
+        "type": "Drink",
+        "cost": 92.38,
+        "typeid": 2,
+        "categoryid": 10,
+        "stuffingid": 7,
+        "description": "Unsp injury of unsp pulmonary blood vessels, subs encntr",
+        "days": [
+            7,
+            1,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "itemid": 47,
+        "itemstatus": 1,
+        "name": "Pterocles gutturalis",
+        "category": "Category7",
+        "stuffing": "Stuffing6",
+        "type": "Drink",
+        "cost": 65.56,
+        "typeid": 1,
+        "categoryid": 9,
+        "stuffingid": 8,
+        "description": "Poisn by crbnc-anhydr inhibtr,benzo/oth diuretc, undet, sqla",
+        "days": [
+            4,
+            7,
+            5,
+            1,
+            2,
+            6
+        ]
+    },
+    {
+        "itemid": 48,
+        "itemstatus": 1,
+        "name": "Bradypus tridactylus",
+        "category": "Category4",
+        "stuffing": "Stuffing8",
+        "type": "Nonveg",
+        "cost": 73.95,
+        "typeid": 1,
+        "categoryid": 1,
+        "stuffingid": 9,
+        "description": "Localized swelling, mass and lump, left lower limb",
+        "days": [
+            4
+        ]
+    },
+    {
+        "itemid": 49,
+        "itemstatus": 1,
+        "name": "Merops nubicus",
+        "category": "Category1",
+        "stuffing": "Stuffing3",
+        "type": "Veg",
+        "cost": 74.4,
+        "typeid": 2,
+        "categoryid": 3,
+        "stuffingid": 9,
+        "description": "Nondisp fx of second metatarsal bone, unspecified foot",
+        "days": [
+            3,
+            6,
+            1,
+            7,
+            4,
+            2
+        ]
+    },
+    {
+        "itemid": 50,
+        "itemstatus": 2,
+        "name": "Macaca mulatta",
+        "category": "Categor6",
+        "stuffing": "Stuffing1",
+        "type": "Veg",
+        "cost": 76.62,
+        "typeid": 1,
+        "categoryid": 9,
+        "stuffingid": 8,
+        "description": "Barton's fx unsp rad, subs for opn fx type I/2 w routn heal",
+        "days": [
+            1,
+            4,
+            6,
+            5
+        ]
+    },
+    {
+        "itemid": 51,
+        "itemstatus": 2,
+        "name": "Phalacrocorax varius",
+        "category": "Category7",
+        "stuffing": "Stuffing8",
+        "type": "Veg",
+        "cost": 73.08,
+        "typeid": 3,
+        "categoryid": 10,
+        "stuffingid": 10,
+        "description": "Atrophic disorders of skin",
+        "days": [
+            5,
+            1,
+            4,
+            7
+        ]
+    },
+    {
+        "itemid": 52,
+        "itemstatus": 2,
+        "name": "Ovis ammon",
+        "category": "Category10",
+        "stuffing": "Stuffing1",
+        "type": "Veg",
+        "cost": 42.03,
+        "typeid": 1,
+        "categoryid": 10,
+        "stuffingid": 3,
+        "description": "Type 2 diab w prolif diab rtnop with trctn dtch n-mcla, bi",
+        "days": [
+            3
+        ]
+    },
+    {
+        "itemid": 53,
+        "itemstatus": 2,
+        "name": "Varanus komodensis",
+        "category": "Category3",
+        "stuffing": "Stuffing10",
+        "type": "Drink",
+        "cost": 27.45,
+        "typeid": 1,
+        "categoryid": 6,
+        "stuffingid": 2,
+        "description": "Postdysenteric arthropathy, right knee",
+        "days": [
+            1,
+            7,
+            4,
+            5,
+            6,
+            2
+        ]
+    },
+    {
+        "itemid": 54,
+        "itemstatus": 1,
+        "name": "Varanus albigularis",
+        "category": "Category4",
+        "stuffing": "Stuffing3",
+        "type": "Veg",
+        "cost": 33.3,
+        "typeid": 3,
+        "categoryid": 6,
+        "stuffingid": 7,
+        "description": "Bus occupant (driver) (passenger) injured in unsp traf",
+        "days": [
+            3,
+            1,
+            7,
+            4,
+            6,
+            5,
+            2
+        ]
+    },
+    {
+        "itemid": 55,
+        "itemstatus": 1,
+        "name": "Diomedea irrorata",
+        "category": "Category10",
+        "stuffing": "Stuffing1",
+        "type": "Veg",
+        "cost": 16.95,
+        "typeid": 3,
+        "categoryid": 9,
+        "stuffingid": 5,
+        "description": "Arthropathies in oth diseases classd elswhr, right shoulder",
+        "days": [
+            2,
+            6,
+            1,
+            7,
+            3,
+            4
+        ]
+    },
+    {
+        "itemid": 56,
+        "itemstatus": 2,
+        "name": "Tyto novaehollandiae",
+        "category": "Category8",
+        "stuffing": "Stuffing7",
+        "type": "Drink",
+        "cost": 69.58,
+        "typeid": 2,
+        "categoryid": 3,
+        "stuffingid": 2,
+        "description": "Abrasion of right index finger, subsequent encounter",
+        "days": [
+            4,
+            7,
+            1,
+            2
+        ]
+    },
+    {
+        "itemid": 57,
+        "itemstatus": 2,
+        "name": "Eunectes sp.",
+        "category": "Category4",
+        "stuffing": "Stuffing9",
+        "type": "Drink",
+        "cost": 69.19,
+        "typeid": 3,
+        "categoryid": 6,
+        "stuffingid": 8,
+        "description": "Strain musc/tend post grp at low leg level, unsp leg, sqla",
+        "days": [
+            2,
+            4,
+            5,
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "itemid": 58,
+        "itemstatus": 2,
+        "name": "Ardea cinerea",
+        "category": "Categor6",
+        "stuffing": "Stuffing5",
+        "type": "Nonveg",
+        "cost": 15.04,
+        "typeid": 3,
+        "categoryid": 3,
+        "stuffingid": 2,
+        "description": "Oth fx fourth MC bone, right hand, subs for fx w routn heal",
+        "days": [
+            4,
+            1
+        ]
+    },
+    {
+        "itemid": 59,
+        "itemstatus": 1,
+        "name": "Dendrocitta vagabunda",
+        "category": "Category5",
+        "stuffing": "Stuffing8",
+        "type": "Veg",
+        "cost": 36.96,
+        "typeid": 3,
+        "categoryid": 1,
+        "stuffingid": 3,
+        "description": "Intvrt disc stenosis of neural canal of cervical region",
+        "days": [
+            7,
+            5,
+            1,
+            3,
+            2,
+            6,
+            4
+        ]
+    },
+    {
+        "itemid": 60,
+        "itemstatus": 1,
+        "name": "Melanerpes erythrocephalus",
+        "category": "Category9",
+        "stuffing": "Stuffing6",
+        "type": "Veg",
+        "cost": 22.9,
+        "typeid": 3,
+        "categoryid": 8,
+        "stuffingid": 3,
+        "description": "Oth pre-existing diabetes in pregnancy, third trimester",
+        "days": [
+            1,
+            4,
+            2,
+            7,
+            6
+        ]
+    },
+    {
+        "itemid": 61,
+        "itemstatus": 1,
+        "name": "Macropus rufogriseus",
+        "category": "Category4",
+        "stuffing": "Stuffing6",
+        "type": "Nonveg",
+        "cost": 30.71,
+        "typeid": 1,
+        "categoryid": 4,
+        "stuffingid": 10,
+        "description": "Traum subrac hem w loss of consciousness of unsp duration",
+        "days": [
+            1,
+            4
+        ]
+    },
+    {
+        "itemid": 62,
+        "itemstatus": 1,
+        "name": "Corallus hortulanus cooki",
+        "category": "Category10",
+        "stuffing": "Stuffing7",
+        "type": "Nonveg",
+        "cost": 60.38,
+        "typeid": 2,
+        "categoryid": 1,
+        "stuffingid": 5,
+        "description": "Oth disorders of ext ear in diseases classd elswhr, unsp ear",
+        "days": [
+            7,
+            3,
+            2,
+            4
+        ]
+    },
+    {
+        "itemid": 63,
+        "itemstatus": 2,
+        "name": "Platalea leucordia",
+        "category": "Category7",
+        "stuffing": "Stuffing3",
+        "type": "Drink",
+        "cost": 55.66,
+        "typeid": 2,
+        "categoryid": 3,
+        "stuffingid": 8,
+        "description": "Decreased fetal movements, unspecified trimester, fetus 1",
+        "days": [
+            4,
+            3,
+            7,
+            6,
+            5,
+            2,
+            1
+        ]
+    },
+    {
+        "itemid": 64,
+        "itemstatus": 2,
+        "name": "Marmota caligata",
+        "category": "Category9",
+        "stuffing": "Stuffing5",
+        "type": "Nonveg",
+        "cost": 40.9,
+        "typeid": 2,
+        "categoryid": 9,
+        "stuffingid": 1,
+        "description": "Disp fx of head of left radius, init for opn fx type I/2",
+        "days": [
+            6,
+            7,
+            2,
+            4,
+            5
+        ]
+    },
+    {
+        "itemid": 65,
+        "itemstatus": 1,
+        "name": "Varanus salvator",
+        "category": "Category2",
+        "stuffing": "Stuffing8",
+        "type": "Veg",
+        "cost": 93.07,
+        "typeid": 3,
+        "categoryid": 1,
+        "stuffingid": 10,
+        "description": "Occ of 3-whl mv inj in trnsp acc w miltry vehicle, sequela",
+        "days": [
+            5,
+            3,
+            1,
+            6,
+            2,
+            7,
+            4
+        ]
+    },
+    {
+        "itemid": 66,
+        "itemstatus": 2,
+        "name": "Pseudocheirus peregrinus",
+        "category": "Category9",
+        "stuffing": "Stuffing2",
+        "type": "Veg",
+        "cost": 45.04,
+        "typeid": 2,
+        "categoryid": 6,
+        "stuffingid": 9,
+        "description": "Chancroid",
+        "days": [
+            2,
+            1,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "itemid": 67,
+        "itemstatus": 2,
+        "name": "Calyptorhynchus magnificus",
+        "category": "Category4",
+        "stuffing": "Stuffing2",
+        "type": "Drink",
+        "cost": 92.48,
+        "typeid": 3,
+        "categoryid": 1,
+        "stuffingid": 10,
+        "description": "Night blindness",
+        "days": [
+            4,
+            1
+        ]
+    },
+    {
+        "itemid": 68,
+        "itemstatus": 2,
+        "name": "Ovis orientalis",
+        "category": "Category5",
+        "stuffing": "Stuffing9",
+        "type": "Nonveg",
+        "cost": 52.46,
+        "typeid": 3,
+        "categoryid": 6,
+        "stuffingid": 9,
+        "description": "Maternal care for anti-D antibodies, first tri, fetus 5",
+        "days": [
+            4,
+            5,
+            7
+        ]
+    },
+    {
+        "itemid": 69,
+        "itemstatus": 1,
+        "name": "Uraeginthus angolensis",
+        "category": "Category10",
+        "stuffing": "Stuffing3",
+        "type": "Veg",
+        "cost": 58.68,
+        "typeid": 2,
+        "categoryid": 9,
+        "stuffingid": 8,
+        "description": "Leakage of cardiac and vascular devices and implants, subs",
+        "days": [
+            1,
+            5
+        ]
+    },
+    {
+        "itemid": 70,
+        "itemstatus": 1,
+        "name": "Ciconia ciconia",
+        "category": "Category7",
+        "stuffing": "Stuffing10",
+        "type": "Nonveg",
+        "cost": 33.24,
+        "typeid": 2,
+        "categoryid": 9,
+        "stuffingid": 7,
+        "description": "Unsp car occupant injured in clsn w hv veh nontraf, init",
+        "days": [
+            1,
+            6,
+            5,
+            7
+        ]
+    },
+    {
+        "itemid": 71,
+        "itemstatus": 1,
+        "name": "Dendrocitta vagabunda",
+        "category": "Category8",
+        "stuffing": "Stuffing3",
+        "type": "Drink",
+        "cost": 50.98,
+        "typeid": 1,
+        "categoryid": 1,
+        "stuffingid": 5,
+        "description": "Dislocation of MTP joint of left lesser toe(s), subs",
+        "days": [
+            6,
+            4
+        ]
+    },
+    {
+        "itemid": 72,
+        "itemstatus": 2,
+        "name": "Pelecans onocratalus",
+        "category": "Category10",
+        "stuffing": "Stuffing7",
+        "type": "Drink",
+        "cost": 53.59,
+        "typeid": 1,
+        "categoryid": 4,
+        "stuffingid": 2,
+        "description": "Arthus phenomenon",
+        "days": [
+            2,
+            4,
+            7,
+            1,
+            6,
+            3
+        ]
+    },
+    {
+        "itemid": 73,
+        "itemstatus": 1,
+        "name": "Motacilla aguimp",
+        "category": "Category9",
+        "stuffing": "Stuffing7",
+        "type": "Drink",
+        "cost": 93.35,
+        "typeid": 3,
+        "categoryid": 8,
+        "stuffingid": 10,
+        "description": "Nondisp spiral fx shaft of r fibula, 7thQ",
+        "days": [
+            7,
+            6,
+            1,
+            3,
+            4,
+            2,
+            5
+        ]
+    },
+    {
+        "itemid": 74,
+        "itemstatus": 2,
+        "name": "Panthera onca",
+        "category": "Category5",
+        "stuffing": "Stuffing10",
+        "type": "Nonveg",
+        "cost": 85.8,
+        "typeid": 3,
+        "categoryid": 8,
+        "stuffingid": 5,
+        "description": "Bent bone of unsp ulna, init for opn fx type 3A/B/C",
+        "days": [
+            7
+        ]
+    },
+    {
+        "itemid": 75,
+        "itemstatus": 1,
+        "name": "Gyps fulvus",
+        "category": "Categor6",
+        "stuffing": "Stuffing6",
+        "type": "Veg",
+        "cost": 70.49,
+        "typeid": 2,
+        "categoryid": 8,
+        "stuffingid": 1,
+        "description": "Type 2 diab with severe nonp rtnop without mclr edema, unsp",
+        "days": [
+            2,
+            6
+        ]
+    },
+    {
+        "itemid": 76,
+        "itemstatus": 1,
+        "name": "Haematopus ater",
+        "category": "Categor6",
+        "stuffing": "Stuffing10",
+        "type": "Veg",
+        "cost": 71.54,
+        "typeid": 1,
+        "categoryid": 1,
+        "stuffingid": 8,
+        "description": "Legal intervnt involving bayonet, bystander injured, subs",
+        "days": [
+            7
+        ]
+    },
+    {
+        "itemid": 77,
+        "itemstatus": 2,
+        "name": "Dasyurus maculatus",
+        "category": "Category2",
+        "stuffing": "Stuffing10",
+        "type": "Drink",
+        "cost": 29.49,
+        "typeid": 2,
+        "categoryid": 7,
+        "stuffingid": 9,
+        "description": "Placentitis, third trimester, fetus 3",
+        "days": [
+            2,
+            4
+        ]
+    },
+    {
+        "itemid": 78,
+        "itemstatus": 1,
+        "name": "Cebus albifrons",
+        "category": "Category2",
+        "stuffing": "Stuffing1",
+        "type": "Drink",
+        "cost": 35.41,
+        "typeid": 1,
+        "categoryid": 6,
+        "stuffingid": 5,
+        "description": "Unsp fracture of navicular bone of left wrist, sequela",
+        "days": [
+            4,
+            3
+        ]
+    },
+    {
+        "itemid": 79,
+        "itemstatus": 2,
+        "name": "Bison bison",
+        "category": "Category7",
+        "stuffing": "Stuffing1",
+        "type": "Drink",
+        "cost": 40.83,
+        "typeid": 1,
+        "categoryid": 4,
+        "stuffingid": 9,
+        "description": "Superficial foreign body, right foot, initial encounter",
+        "days": [
+            2,
+            6
+        ]
+    },
+    {
+        "itemid": 80,
+        "itemstatus": 2,
+        "name": "Gymnorhina tibicen",
+        "category": "Category1",
+        "stuffing": "Stuffing2",
+        "type": "Nonveg",
+        "cost": 91.38,
+        "typeid": 1,
+        "categoryid": 5,
+        "stuffingid": 3,
+        "description": "Nondisp fx of olecran pro w intartic extn r ulna, 7thB",
+        "days": [
+            5,
+            7,
+            6,
+            1,
+            3,
+            2,
+            4
+        ]
+    },
+    {
+        "itemid": 81,
+        "itemstatus": 1,
+        "name": "Felis silvestris lybica",
+        "category": "Category7",
+        "stuffing": "Stuffing1",
+        "type": "Nonveg",
+        "cost": 93.69,
+        "typeid": 1,
+        "categoryid": 3,
+        "stuffingid": 9,
+        "description": "Prsnl history of malig neoplm of resp and intrathorac organs",
+        "days": [
+            6,
+            1
+        ]
+    },
+    {
+        "itemid": 82,
+        "itemstatus": 2,
+        "name": "Deroptyus accipitrinus",
+        "category": "Category10",
+        "stuffing": "Stuffing8",
+        "type": "Nonveg",
+        "cost": 82.45,
+        "typeid": 3,
+        "categoryid": 9,
+        "stuffingid": 7,
+        "description": "Aneurysmal bone cyst, right ankle and foot",
+        "days": [
+            4,
+            3,
+            2,
+            7,
+            1,
+            5
+        ]
+    },
+    {
+        "itemid": 83,
+        "itemstatus": 1,
+        "name": "Anas punctata",
+        "category": "Category9",
+        "stuffing": "Stuffing1",
+        "type": "Drink",
+        "cost": 21.61,
+        "typeid": 2,
+        "categoryid": 5,
+        "stuffingid": 1,
+        "description": "Hallucinogen abuse",
+        "days": [
+            3,
+            4,
+            6,
+            7,
+            5
+        ]
+    },
+    {
+        "itemid": 84,
+        "itemstatus": 1,
+        "name": "Platalea leucordia",
+        "category": "Category4",
+        "stuffing": "Stuffing1",
+        "type": "Drink",
+        "cost": 67.48,
+        "typeid": 1,
+        "categoryid": 5,
+        "stuffingid": 1,
+        "description": "Instability of internal left knee prosthesis",
+        "days": [
+            4,
+            3
+        ]
+    },
+    {
+        "itemid": 85,
+        "itemstatus": 1,
+        "name": "Tetracerus quadricornis",
+        "category": "Category5",
+        "stuffing": "Stuffing2",
+        "type": "Drink",
+        "cost": 13.19,
+        "typeid": 3,
+        "categoryid": 10,
+        "stuffingid": 7,
+        "description": "Intentional self-harm by smoke, fire and flames, sequela",
+        "days": [
+            7,
+            4,
+            1,
+            3
+        ]
+    },
+    {
+        "itemid": 86,
+        "itemstatus": 2,
+        "name": "unavailable",
+        "category": "Category9",
+        "stuffing": "Stuffing9",
+        "type": "Drink",
+        "cost": 28.9,
+        "typeid": 2,
+        "categoryid": 3,
+        "stuffingid": 9,
+        "description": "Benign neoplasm of long bones of lower limb",
+        "days": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "itemid": 87,
+        "itemstatus": 1,
+        "name": "Agelaius phoeniceus",
+        "category": "Category2",
+        "stuffing": "Stuffing9",
+        "type": "Drink",
+        "cost": 57.96,
+        "typeid": 1,
+        "categoryid": 10,
+        "stuffingid": 8,
+        "description": "Blister (nonthermal) of left forearm",
+        "days": [
+            1
+        ]
+    },
+    {
+        "itemid": 88,
+        "itemstatus": 1,
+        "name": "Echimys chrysurus",
+        "category": "Categor6",
+        "stuffing": "Stuffing4",
+        "type": "Drink",
+        "cost": 83.32,
+        "typeid": 1,
+        "categoryid": 7,
+        "stuffingid": 8,
+        "description": "Oth nondisp fx of upper end r humer, subs for fx w malunion",
+        "days": [
+            4,
+            7,
+            1,
+            3,
+            5,
+            2
+        ]
+    },
+    {
+        "itemid": 89,
+        "itemstatus": 2,
+        "name": "Cebus apella",
+        "category": "Categor6",
+        "stuffing": "Stuffing9",
+        "type": "Nonveg",
+        "cost": 41.48,
+        "typeid": 1,
+        "categoryid": 3,
+        "stuffingid": 10,
+        "description": "Displacement of implanted testicular prosthesis, sequela",
+        "days": [
+            3,
+            2,
+            7,
+            1,
+            4
+        ]
+    },
+    {
+        "itemid": 90,
+        "itemstatus": 1,
+        "name": "Macropus eugenii",
+        "category": "Category3",
+        "stuffing": "Stuffing7",
+        "type": "Veg",
+        "cost": 26.32,
+        "typeid": 3,
+        "categoryid": 3,
+        "stuffingid": 10,
+        "description": "Nondisp suprcndl fx w intrcndl extn low end l femr, 7thJ",
+        "days": [
+            6
+        ]
+    },
+    {
+        "itemid": 91,
+        "itemstatus": 2,
+        "name": "Cervus duvauceli",
+        "category": "Category4",
+        "stuffing": "Stuffing10",
+        "type": "Veg",
+        "cost": 70.31,
+        "typeid": 1,
+        "categoryid": 4,
+        "stuffingid": 6,
+        "description": "Mech compl of implanted urinary sphincter, subs",
+        "days": [
+            1,
+            4
+        ]
+    },
+    {
+        "itemid": 92,
+        "itemstatus": 1,
+        "name": "Eudromia elegans",
+        "category": "Category9",
+        "stuffing": "Stuffing2",
+        "type": "Nonveg",
+        "cost": 76.98,
+        "typeid": 1,
+        "categoryid": 9,
+        "stuffingid": 3,
+        "description": "Oth fx low end r tibia, 7thF",
+        "days": [
+            2,
+            7,
+            6,
+            3,
+            5
+        ]
+    },
+    {
+        "itemid": 93,
+        "itemstatus": 1,
+        "name": "Manouria emys",
+        "category": "Category7",
+        "stuffing": "Stuffing1",
+        "type": "Drink",
+        "cost": 67.13,
+        "typeid": 1,
+        "categoryid": 3,
+        "stuffingid": 9,
+        "description": "Laceration w foreign body of right cheek and TMJ area, subs",
+        "days": [
+            2,
+            4,
+            5,
+            7
+        ]
+    },
+    {
+        "itemid": 94,
+        "itemstatus": 2,
+        "name": "Naja haje",
+        "category": "Category10",
+        "stuffing": "Stuffing3",
+        "type": "Drink",
+        "cost": 64.75,
+        "typeid": 3,
+        "categoryid": 6,
+        "stuffingid": 6,
+        "description": "Displ commnt fx shaft of r tibia, 7thF",
+        "days": [
+            1,
+            2,
+            5,
+            7,
+            4
+        ]
+    },
+    {
+        "itemid": 95,
+        "itemstatus": 1,
+        "name": "Bettongia penicillata",
+        "category": "Category10",
+        "stuffing": "Stuffing9",
+        "type": "Drink",
+        "cost": 11.73,
+        "typeid": 2,
+        "categoryid": 2,
+        "stuffingid": 10,
+        "description": "Nondisp oth extrartic fx l calcaneus, subs for fx w nonunion",
+        "days": [
+            5
+        ]
+    },
+    {
+        "itemid": 96,
+        "itemstatus": 2,
+        "name": "Coluber constrictor foxii",
+        "category": "Category4",
+        "stuffing": "Stuffing6",
+        "type": "Veg",
+        "cost": 72.08,
+        "typeid": 2,
+        "categoryid": 6,
+        "stuffingid": 8,
+        "description": "Rheumatoid bursitis, elbow",
+        "days": [
+            1,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "itemid": 97,
+        "itemstatus": 1,
+        "name": "Sciurus niger",
+        "category": "Category10",
+        "stuffing": "Stuffing10",
+        "type": "Veg",
+        "cost": 30.35,
+        "typeid": 2,
+        "categoryid": 5,
+        "stuffingid": 7,
+        "description": "Neoplasm of uncertain behavior of renal pelvis",
+        "days": [
+            5
+        ]
+    },
+    {
+        "itemid": 98,
+        "itemstatus": 2,
+        "name": "Ceratotherium simum",
+        "category": "Category5",
+        "stuffing": "Stuffing4",
+        "type": "Drink",
+        "cost": 22.42,
+        "typeid": 3,
+        "categoryid": 10,
+        "stuffingid": 1,
+        "description": "Malig neoplasm of prph nerves of left lower limb, inc hip",
+        "days": [
+            5,
+            2,
+            6
+        ]
+    },
+    {
+        "itemid": 99,
+        "itemstatus": 1,
+        "name": "Sagittarius serpentarius",
+        "category": "Category8",
+        "stuffing": "Stuffing3",
+        "type": "Drink",
+        "cost": 70.6,
+        "typeid": 2,
+        "categoryid": 10,
+        "stuffingid": 4,
+        "description": "Oth injury of muscle, fascia and tendon of left hip, sequela",
+        "days": [
+            5,
+            3,
+            7,
+            4,
+            2,
+            1,
+            6
+        ]
+    },
+    {
+        "itemid": 100,
+        "itemstatus": 2,
+        "name": "Cervus duvauceli",
+        "category": "Category9",
+        "stuffing": "Stuffing8",
+        "type": "Nonveg",
+        "cost": 98.36,
+        "typeid": 1,
+        "categoryid": 9,
+        "stuffingid": 8,
+        "description": "Disp fx of dist pole of navic bone of r wrs, 7thK",
+        "days": [
+            7,
+            2,
+            5,
+            6
+        ]
+    }
+]

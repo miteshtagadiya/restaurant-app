@@ -1,0 +1,42 @@
+[
+    {
+        "categoryid": 1,
+        "name": "Category1"
+    },
+    {
+        "categoryid": 2,
+        "name": "Category2"
+    },
+    {
+        "categoryid": 3,
+        "name": "Category3"
+    },
+    {
+        "categoryid": 4,
+        "name": "Category4"
+    },
+    {
+        "categoryid": 5,
+        "name": "Category5"
+    },
+    {
+        "categoryid": 6,
+        "name": "Category6"
+    },
+    {
+        "categoryid": 7,
+        "name": "Category7"
+    },
+    {
+        "categoryid": 8,
+        "name": "Category8"
+    },
+    {
+        "categoryid": 9,
+        "name": "Category9"
+    },
+    {
+        "categoryid": 10,
+        "name": "Category10"
+    }
+]
