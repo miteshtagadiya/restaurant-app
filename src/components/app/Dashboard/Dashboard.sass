@@ -1,0 +1,54 @@
+@import "../../../styles/scss/variable.scss"
+
+@media (min-width: 1025px)
+    .hidden-1024-up
+        display: none !important
+    .sidebar-expand
+        color: $white !important
+        opacity: 1
+        border-right: 5px solid $sidebar-border
+        background: $link-active-color
+        .icon-color
+            color: $white
+        .label-color
+            color: $white
+        .arrow
+            color: $white
+        &:hover
+            .arrow
+                color: $link-font-color
+.ant-drawer-content-wrapper
+    width: 334px !important
+.ant-drawer-header
+    background-color: #052345
+    border: 1px solid #052345 
+    padding: 30px 24px
+.ant-drawer-title
+    color: white !important
+    font-size: 20px !important
+.ant-radio-wrapper
+    font-size: 20px !important
+.ant-radio-checked .ant-radio-inner
+    background-color: #052345 !important
+    border-color: #052345 !important
+    border: 1px solid #052345 !important
+    width: 22px
+    height: 22px
+.ant-radio-inner::after
+    background: transparent
+    left: 20%
+    top: 44%
+    width: 7.71px
+    height: 14.14px
+.ant-radio-wrapper + span, .ant-radio + span
+    padding-left: 15px !important
+.ant-drawer-body
+    padding: 0px
+.ant-radio-wrapper:hover .ant-radio
+    border-color: #052345 !important
+.ant-radio .ant-radio-inner
+    border: 1px solid #052345 !important
+    width: 22px
+    height: 22px
+.ant-radio-group
+    width: 100%
