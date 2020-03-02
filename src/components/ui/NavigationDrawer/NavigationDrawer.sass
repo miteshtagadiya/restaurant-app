@@ -1,0 +1,174 @@
+@import "../../../styles/scss/variable.scss"
+    
+.app-drawer
+    height: 100%
+    width: 280px
+    transform: translateX(-100%)
+    transition: transform 0.25s ease-out
+    position: fixed
+    background: $background-sidebar
+    box-shadow: -3px 0px 20px 0px rgba(0,0,0,0.35)
+    z-index: 15
+    top: 0
+    left: 0
+    // box-shadow: $shadow
+    .logo-title
+        color: #ffffff
+    .nav-scroll
+        overflow-x: hidden
+        width: 280px
+        height: calc(100% - 75px)
+        overflow-y: auto !important
+        position: absolute
+    .ui-drawer-overlay
+        width: 100vw
+        height: 100vh
+        position: absolute
+        top: 0
+        left: 0
+        overflow: hidden
+        transform: translate(280px)
+        background: transparentize(black, 0.5)
+        @media screen and (max-width: 1024px)
+            display: block
+    .logo-container
+        height: 110px
+        text-decoration: none
+        font-size: 1.5em
+        flex-direction: column-reverse
+        text-align: center
+        a
+            color: black
+        &:hover
+            a
+                text-decoration: none !important
+    .bottom-profile-container
+        height: 100px
+        padding: 10px 15px 10px 15px
+        text-decoration: none
+        font-size: 1.5em
+        position: absolute
+        bottom: 0px
+        display: flex
+        justify-content: center
+        width: 100%
+        border-top: 2px solid #ffffff
+        margin-top: 10px
+        a
+            color: #232323
+        &:hover
+            a
+                text-decoration: none !important
+    .drawer-menu
+        margin-top: 0px
+        border-top: 2px solid #ffffff
+        padding: 0
+        > span
+            margin: 25px
+        .none
+            display: none
+        .show
+            display: block
+            border-bottom: 1px solid #052345
+        .subicon
+            padding-left: 50px
+        .arrow
+            position: absolute
+            margin-left: 200px
+            padding: 20px
+        .navlink
+            text-decoration: none !important
+        .drawer-link
+            width: 100%
+            padding: 15px 25px
+            color: $link-font-color
+            font-size: 18px !important
+            opacity: 0.95
+            cursor: pointer
+            transition: background 0.5s ease-out
+            text-decoration: none !important
+            a
+                color: $tab-icon-color
+            .sub
+                display: flex
+                align-items: center
+                justify-content: center
+            &:hover
+                opacity: 1
+                padding-left: 22px
+                text-decoration: none !important
+                background: $link-hover-color
+                .icon-color
+                    color: $link-font-color
+                .label-color
+                    color: $link-font-color
+        .drawer-link-menu
+            width: 100%
+            padding: 15px 25px
+            color: #232323
+            opacity: 0.95
+            cursor: pointer
+            background: $link-sub-menu
+            transition: background 0.5s ease-out
+            text-decoration: none !important
+            a
+                color: $tab-icon-color
+            .sub
+                display: flex
+                align-items: center
+                justify-content: center
+            &:hover
+                opacity: 1
+                padding-left: 22px
+                text-decoration: none !important
+                background: $white
+                .icon-color
+                    color: $tab-icon-color
+                .label-color
+                    color: $tab-icon-color
+        .active
+            .drawer-link
+                opacity: 1
+                border-right: 5px solid $sidebar-border
+                padding-left: 22px
+                background: $tab-icon-color
+                .icon-color
+                    color: $white
+                .label-color
+                    color: $white
+            .drawer-link-menu
+                opacity: 1
+                // border-right: 5px solid #E2683C
+                padding-left: 22px
+                background: #456788
+                color: #ffffff !important
+                box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.35)
+                .icon-color
+                    color: $tab-icon-color
+                .label-color
+                    color: $tab-icon-color
+            .arrow
+                color: white
+        .list
+            display: flex
+            align-items: center
+            .list-title
+                padding-left: 25px
+        label
+            margin: 0px
+            cursor: pointer
+    .container-fluid
+        display: flex
+        justify-content: center
+        padding: 10px
+    &__logo
+        height: 90px
+        width: 100px
+        padding: 0
+
+.app-drawer.open
+    transform: translateX(0px)
+
+@media (min-width: 1025px)
+    .app-drawer
+        transform: translateX(0px)
