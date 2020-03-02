@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8dd7025.chunk.css",
+    "main.js": "/static/js/main.04ab2117.chunk.js",
+    "main.js.map": "/static/js/main.04ab2117.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.1d429f22.chunk.css": "/static/css/2.1d429f22.chunk.css",
+    "static/js/2.6959563b.chunk.js": "/static/js/2.6959563b.chunk.js",
+    "static/js/2.6959563b.chunk.js.map": "/static/js/2.6959563b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d79a1ad4ce810fc25d9a67d82275bb0.js": "/precache-manifest.9d79a1ad4ce810fc25d9a67d82275bb0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1d429f22.chunk.css.map": "/static/css/2.1d429f22.chunk.css.map",
+    "static/css/main.b8dd7025.chunk.css.map": "/static/css/main.b8dd7025.chunk.css.map",
+    "static/media/Logo.png": "/static/media/Logo.dbc54e26.png",
+    "static/media/login-banner.png": "/static/media/login-banner.41824335.png"
+  }
+}
