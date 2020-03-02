@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/miteshtagadiya/Restaurant-App/static/css/main.b8dd7025.chunk.css",
-    "main.js": "/miteshtagadiya/Restaurant-App/static/js/main.4eba2d92.chunk.js",
-    "main.js.map": "/miteshtagadiya/Restaurant-App/static/js/main.4eba2d92.chunk.js.map",
-    "runtime~main.js": "/miteshtagadiya/Restaurant-App/static/js/runtime~main.8747c1d4.js",
-    "runtime~main.js.map": "/miteshtagadiya/Restaurant-App/static/js/runtime~main.8747c1d4.js.map",
-    "static/css/2.1d429f22.chunk.css": "/miteshtagadiya/Restaurant-App/static/css/2.1d429f22.chunk.css",
-    "static/js/2.e4bef41c.chunk.js": "/miteshtagadiya/Restaurant-App/static/js/2.e4bef41c.chunk.js",
-    "static/js/2.e4bef41c.chunk.js.map": "/miteshtagadiya/Restaurant-App/static/js/2.e4bef41c.chunk.js.map",
-    "index.html": "/miteshtagadiya/Restaurant-App/index.html",
-    "precache-manifest.1d5a45e2a672c066a730b2d6631f7129.js": "/miteshtagadiya/Restaurant-App/precache-manifest.1d5a45e2a672c066a730b2d6631f7129.js",
-    "service-worker.js": "/miteshtagadiya/Restaurant-App/service-worker.js",
-    "static/css/2.1d429f22.chunk.css.map": "/miteshtagadiya/Restaurant-App/static/css/2.1d429f22.chunk.css.map",
-    "static/css/main.b8dd7025.chunk.css.map": "/miteshtagadiya/Restaurant-App/static/css/main.b8dd7025.chunk.css.map",
-    "static/media/Logo.png": "/miteshtagadiya/Restaurant-App/static/media/Logo.dbc54e26.png",
-    "static/media/login-banner.png": "/miteshtagadiya/Restaurant-App/static/media/login-banner.41824335.png"
+    "main.css": "/miteshtagadiya/restaurant-app/static/css/main.b8dd7025.chunk.css",
+    "main.js": "/miteshtagadiya/restaurant-app/static/js/main.f31dfb46.chunk.js",
+    "main.js.map": "/miteshtagadiya/restaurant-app/static/js/main.f31dfb46.chunk.js.map",
+    "runtime~main.js": "/miteshtagadiya/restaurant-app/static/js/runtime~main.d3a514c2.js",
+    "runtime~main.js.map": "/miteshtagadiya/restaurant-app/static/js/runtime~main.d3a514c2.js.map",
+    "static/css/2.1d429f22.chunk.css": "/miteshtagadiya/restaurant-app/static/css/2.1d429f22.chunk.css",
+    "static/js/2.3d677e3a.chunk.js": "/miteshtagadiya/restaurant-app/static/js/2.3d677e3a.chunk.js",
+    "static/js/2.3d677e3a.chunk.js.map": "/miteshtagadiya/restaurant-app/static/js/2.3d677e3a.chunk.js.map",
+    "index.html": "/miteshtagadiya/restaurant-app/index.html",
+    "precache-manifest.394637d442332f9feb8fd3f5edeb32aa.js": "/miteshtagadiya/restaurant-app/precache-manifest.394637d442332f9feb8fd3f5edeb32aa.js",
+    "service-worker.js": "/miteshtagadiya/restaurant-app/service-worker.js",
+    "static/css/2.1d429f22.chunk.css.map": "/miteshtagadiya/restaurant-app/static/css/2.1d429f22.chunk.css.map",
+    "static/css/main.b8dd7025.chunk.css.map": "/miteshtagadiya/restaurant-app/static/css/main.b8dd7025.chunk.css.map",
+    "static/media/Logo.png": "/miteshtagadiya/restaurant-app/static/media/Logo.dbc54e26.png",
+    "static/media/login-banner.png": "/miteshtagadiya/restaurant-app/static/media/login-banner.41824335.png"
   }
 }
