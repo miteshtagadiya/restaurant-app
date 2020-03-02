@@ -1,0 +1,70 @@
+@import "../../../styles/scss/variable.scss"
+    
+.ant-input
+    height: auto !important
+    line-height: 48px !important
+.ant-input-disabled
+    cursor: auto !important
+    background: #F9FCFF !important
+    color: #232323 !important
+    font-size: 18px
+    border: none !important
+    border-right: 1px solid #999999 !important
+.ant-input-disabled:hover
+    border-right: 1px solid #999999 !important
+.ant-input-disabled:focus
+    border-right: 1px solid #999999 !important
+.ant-input-disabled:active
+    border-right: 1px solid #999999 !important
+.ant-input-group.ant-input-group-compact > .ant-select:last-child > .ant-select-selection
+    height: 46px !important
+    font-size: 18px
+    border: none !important
+    border-left: 1px solid #999999 
+.ant-input-group.ant-input-group-compact
+    height: 48px !important
+    border: 1px solid #999999 
+    border-radius: 5px
+    color: #232323 !important
+.ant-select-selection__rendered
+    line-height: 48px !important
+.dropdown
+    height: 48px !important
+    line-height: 48px !important
+.ant-select-dropdown-menu-item-selected
+    color: #ffffff !important
+    background-color: $link-active-color !important
+.ant-select-dropdown-menu-item-active
+    background-color: #bcd3e8 !important
+.ant-select-open .ant-select-selection
+    border-color: white
+    box-shadow: none
+.ant-select-focused .ant-select-selection, .ant-select-selection:focus, .ant-select-selection:active
+    border-color: white
+    box-shadow: none
+.ant-input-search
+    .ant-input
+        line-height: 40px !important
+        border: 1px solid #999999
+        --antd-wave-shadow-color: none !important
+.ant-input-affix-wrapper:hover .ant-input:not(.ant-input-disabled)
+    border-color: #999999
+.ant-input-affix-wrapper .ant-input-suffix
+    left: 17px
+    font-size: 20px
+    width: 24px
+.ant-input-affix-wrapper .ant-input:not(:last-child)
+    padding-left: 50px
+    font-size: 18px
+    color: #999999
+// .ant-input-affix-wrapper
+//     @media screen and (max-width: 1439px) 
+//         width: 80% !important
+.ant-input-group.ant-input-group-compact > *:not(:last-child) 
+    border-right: 1px solid #999999
+    border-right-width: 1px !important
+    @media screen and (max-width: 1700px) and (min-width: 1440px)
+        width: 55% !important
+    @media screen and (max-width: 1439px) 
+        width: 50% !important
+        
