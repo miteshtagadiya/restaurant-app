@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2c9528dcaaaeb353b3a472f166d0a37",
+    "revision": "10f4ca8380961685d3404a3b9757697f",
     "url": "https://github.com/miteshtagadiya/restaurant-app/index.html"
   },
   {
