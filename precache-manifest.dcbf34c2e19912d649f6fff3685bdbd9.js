@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faabf58cd86af3da8ae2c763a5dd1d68",
+    "revision": "23d5d91996d0c4e3f6b38221815562e2",
     "url": "https://github.com/miteshtagadiya/restaurant-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://github.com/miteshtagadiya/restaurant-app/static/css/2.afea7bfa.chunk.css"
   },
   {
-    "revision": "207d462273459796427d",
+    "revision": "2d1d225fc70360eb7fa2",
     "url": "https://github.com/miteshtagadiya/restaurant-app/static/css/main.b8dd7025.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://github.com/miteshtagadiya/restaurant-app/static/js/2.16d2262a.chunk.js"
   },
   {
-    "revision": "207d462273459796427d",
-    "url": "https://github.com/miteshtagadiya/restaurant-app/static/js/main.ff04dc4a.chunk.js"
+    "revision": "2d1d225fc70360eb7fa2",
+    "url": "https://github.com/miteshtagadiya/restaurant-app/static/js/main.dbdb0086.chunk.js"
   },
   {
     "revision": "168dffed69f4fb652dbd",
