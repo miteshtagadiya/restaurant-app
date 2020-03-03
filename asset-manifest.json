@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/miteshtagadiya/restaurant-app/static/css/main.b8dd7025.chunk.css",
-    "main.js": "/miteshtagadiya/restaurant-app/static/js/main.c1346e98.chunk.js",
-    "main.js.map": "/miteshtagadiya/restaurant-app/static/js/main.c1346e98.chunk.js.map",
-    "runtime~main.js": "/miteshtagadiya/restaurant-app/static/js/runtime~main.d3a514c2.js",
-    "runtime~main.js.map": "/miteshtagadiya/restaurant-app/static/js/runtime~main.d3a514c2.js.map",
-    "static/css/2.8773690a.chunk.css": "/miteshtagadiya/restaurant-app/static/css/2.8773690a.chunk.css",
-    "static/js/2.957537f7.chunk.js": "/miteshtagadiya/restaurant-app/static/js/2.957537f7.chunk.js",
-    "static/js/2.957537f7.chunk.js.map": "/miteshtagadiya/restaurant-app/static/js/2.957537f7.chunk.js.map",
-    "index.html": "/miteshtagadiya/restaurant-app/index.html",
-    "precache-manifest.5d20c89bc802b04fb543f595bd14ffa8.js": "/miteshtagadiya/restaurant-app/precache-manifest.5d20c89bc802b04fb543f595bd14ffa8.js",
-    "service-worker.js": "/miteshtagadiya/restaurant-app/service-worker.js",
-    "static/css/2.8773690a.chunk.css.map": "/miteshtagadiya/restaurant-app/static/css/2.8773690a.chunk.css.map",
-    "static/css/main.b8dd7025.chunk.css.map": "/miteshtagadiya/restaurant-app/static/css/main.b8dd7025.chunk.css.map",
-    "static/media/Logo.png": "/miteshtagadiya/restaurant-app/static/media/Logo.dbc54e26.png",
-    "static/media/login-banner.png": "/miteshtagadiya/restaurant-app/static/media/login-banner.41824335.png"
+    "main.css": "https://github.com/miteshtagadiya/restaurant-app/static/css/main.b8dd7025.chunk.css",
+    "main.js": "https://github.com/miteshtagadiya/restaurant-app/static/js/main.26f91ee8.chunk.js",
+    "main.js.map": "https://github.com/miteshtagadiya/restaurant-app/static/js/main.26f91ee8.chunk.js.map",
+    "runtime~main.js": "https://github.com/miteshtagadiya/restaurant-app/static/js/runtime~main.66e0ab93.js",
+    "runtime~main.js.map": "https://github.com/miteshtagadiya/restaurant-app/static/js/runtime~main.66e0ab93.js.map",
+    "static/css/2.8773690a.chunk.css": "https://github.com/miteshtagadiya/restaurant-app/static/css/2.8773690a.chunk.css",
+    "static/js/2.cf79dc0a.chunk.js": "https://github.com/miteshtagadiya/restaurant-app/static/js/2.cf79dc0a.chunk.js",
+    "static/js/2.cf79dc0a.chunk.js.map": "https://github.com/miteshtagadiya/restaurant-app/static/js/2.cf79dc0a.chunk.js.map",
+    "index.html": "https://github.com/miteshtagadiya/restaurant-app/index.html",
+    "precache-manifest.679d2fd6bb7c612e9e0b3e19ae9893b4.js": "https://github.com/miteshtagadiya/restaurant-app/precache-manifest.679d2fd6bb7c612e9e0b3e19ae9893b4.js",
+    "service-worker.js": "https://github.com/miteshtagadiya/restaurant-app/service-worker.js",
+    "static/css/2.8773690a.chunk.css.map": "https://github.com/miteshtagadiya/restaurant-app/static/css/2.8773690a.chunk.css.map",
+    "static/css/main.b8dd7025.chunk.css.map": "https://github.com/miteshtagadiya/restaurant-app/static/css/main.b8dd7025.chunk.css.map",
+    "static/media/Logo.png": "https://github.com/miteshtagadiya/restaurant-app/static/media/Logo.dbc54e26.png",
+    "static/media/login-banner.png": "https://github.com/miteshtagadiya/restaurant-app/static/media/login-banner.41824335.png"
   }
 }
