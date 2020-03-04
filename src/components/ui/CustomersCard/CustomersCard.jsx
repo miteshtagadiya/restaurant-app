@@ -48,9 +48,7 @@ class CustomersCard extends Component {
               <FontAwesomeIcon icon={["fas", "map-marker-alt"]} />
             </div>
             <div className="p-l-0 p-r-0 col-10">
-              <label>
-                dskjhdsakhdkhasdkjsdhfkjsadhsdeerwerwerwerewreewrsdf
-              </label>
+              <label>Address</label>
             </div>
           </div>
         </div>

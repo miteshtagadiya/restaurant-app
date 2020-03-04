@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Auth } from "aws-amplify";
 import LoginLogo from "../../../assets/Logo.png";
 import LoginBanner from "../../../assets/login-banner.png";
 import "./Login.sass";
@@ -24,17 +23,6 @@ export default class Login extends Component {
     this.setState({
       [event.target.id]: event.target.value
     });
-  };
-
-  handleSubmit = async event => {
-    console.log(this.state.Auth);
-    event.preventDefault();
-    try {
-      await Auth.signIn(this.state.email, this.state.password);
-      alert("Logged in");
-    } catch (e) {
-      alert(e.message);
-    }
   };
 
   handleSubmit = event => {

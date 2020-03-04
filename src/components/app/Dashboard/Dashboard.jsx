@@ -220,7 +220,7 @@ class Dashboard extends Component {
 
         <ContentArea>
           <Switch>
-            <Route path="/" component={Customers} />
+            <Route exact path="/" component={Customers} />
             <Route path="/customers/profile" component={CustomerProfile} />
             <Route path="/customers" component={Customers} />
             <Route path="/orders" component={Orders} />
