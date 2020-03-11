@@ -145,6 +145,57 @@ class MenuItems extends Component {
     return Object.keys(fieldsError).some(field => fieldsError[field]);
   };
 
+  renderType(typeId) {
+    switch (typeId) {
+      case 0:
+        return "Veg";
+      case 1:
+        return "Nonveg";
+      case 2:
+        return "Drink";
+      default:
+        return "Veg";
+    }
+  }
+
+  handleEditSave() {
+    let obj;
+    let respStatus;
+
+    this.props.form.validateFields((err, value) => {
+      obj = {
+        itemid: this.state.editableItem.itemId,
+        itemstatus: this.state.editableItem.itemstatus,
+        name: value.itemname,
+        category: value.menucategory,
+        stuffing: value.itemstuffing,
+        type:
+          typeof value.menutype === "undefined"
+            ? this.renderType(1)
+            : this.renderType(value.menutype),
+        cost: value.itemcost,
+        typeid:
+          value.menutype === undefined ? this.state.typeId : value.menutype,
+        categoryid: value.menucategory,
+        stuffingid: value.itemstuffing,
+        menuspecialstatus: this.state.MenuSpecial_Status,
+        chefspecialstatus: false,
+        description: value.itemdescription
+      };
+    });
+
+    let index = 0;
+    this.state.items.map((item, key) =>
+      item.itemid === this.state.editableItem.itemId ? (index = key) : null
+    );
+    let array = this.state.items;
+    array[index] = obj;
+    this.setState({
+      items: array,
+      itemEditButton: false
+    });
+  }
+
   renderDashboard() {
     let columns = [
       {
