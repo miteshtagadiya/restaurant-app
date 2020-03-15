@@ -10,7 +10,7 @@ import { fas } from "@fortawesome/free-solid-svg-icons";
 library.add(fab, fas);
 
 const application = (
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <App />
   </Router>
 );
