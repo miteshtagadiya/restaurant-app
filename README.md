@@ -7,3 +7,7 @@ Restaurant CRUD app is sample project with CRUD operations build with ant-design
 ### `npm start`
 
 Click [Here](https://miteshtagadiya.github.io/restaurant-app/) to view it in the browser.
+
+<p align="center">
+  <img src="home.png">
+</p>
